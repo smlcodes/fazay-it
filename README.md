@@ -1,5 +1,8 @@
 # Fazay IT Solutions Pvt. Ltd.
 
+
+http://fazay.free.nf/
+
 https://preview.colorlib.com/theme/Fazay IT Solutions/index.html
 
 https://preview.colorlib.com/theme/consolution/project.html
