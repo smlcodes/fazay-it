@@ -1,4 +1,4 @@
-# Fazay IT Solutions Pvt Ltd
+# Fazay IT Solutions Pvt. Ltd.
 
 https://preview.colorlib.com/theme/Fazay IT Solutions/index.html
 
