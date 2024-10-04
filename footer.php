@@ -78,7 +78,7 @@
                         <div class="single-footer-caption mb-30">
                              <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.php"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                                <a href="index.php"><img src="assets/img/logo/logo2_footer.png" width="250" alt=""></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">
@@ -124,9 +124,9 @@
                            <div class="footer-tittle">
                                <h4>Get in Touch</h4>
                                <ul>
-                                <li><a href="#">152-515-6565</a></li>
-                                <li><a href="#"> contact@fazayit.com</a></li>
-                                <li><a href="#">Irving, Texas, 75038</a></li>
+                                <li><a href="#">2nd Floor, S-space, Patrika Nagar, <br> Madhapur, Hyderabad - 500081</a></li>
+                                <li><a href="#"><i class="fas fa-mobile-alt"></i>&nbsp; &nbsp;  469 995 7934</a></li>
+                                <li><a href="#"><i class="fas fa-envelope"></i>&nbsp; info@fazayit.com</a></li>
                             </ul>
                            </div>
                        </div>

@@ -49,7 +49,7 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
                                     <ul>     
-                                        <li><i class="fas fa-map-marker-alt"></i>Irving, Texas, 75038</li>
+                                        <li><i class="fas fa-map-marker-alt"></i>S-space, Madhapur, Hyderabad, 500081</li>
                                         <li><i class="fas fa-envelope"></i>info@fazayit.com</li>
                                     </ul>
                                 </div>
@@ -71,7 +71,7 @@
                             <!-- Logo -->
                             <div class="col-xl-2 col-lg-1 col-md-1">
                                 <div class="logo">
-                                  <a href="index.php"><img src="assets/img/logo/logo.png" alt=""></a>
+                                  <a href="index.php"><img src="assets/img/logo/logo.png" width="200" alt="Fazay"></a>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-8">
