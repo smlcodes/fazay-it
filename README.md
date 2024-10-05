@@ -23,9 +23,9 @@ https://www.namecheap.com/support/knowledgebase/article.aspx/897/29/how-to-creat
 1. Change Nameservers in GoDaddy  
 
 All Products > Domains > fazayit: click on DNS > Nameservers Tab > Change Nameservers  
-``
-`dns1.namecheaphosting.com
-dns2.namecheaphosting.com
+```
+  dns1.namecheaphosting.com
+  dns2.namecheaphosting.com
 ```
 
 
