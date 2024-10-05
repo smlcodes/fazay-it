@@ -27,7 +27,13 @@ All Products > Domains > fazayit: click on DNS > Nameservers Tab > Change Namese
   dns2.namecheaphosting.com
 ```
 
-2. Go to Namecheap CPanel, Domains > add new domain
+**2. Go to Namecheap CPanel, Domains > add new domain: fazayit > Submit**
+
+
+**3. Upload Website**
+   - FTP Accout : infrrazs/Infrapod@321
+
+
 
 
 ## Notes
