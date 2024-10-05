@@ -32,6 +32,11 @@ All Products > Domains > fazayit: click on DNS > Nameservers Tab > Change Namese
 
 **3. Upload Website**
    - FTP Accout : infrrazs/Infrapod@321
+     ```
+FTP Username: infrrazs
+FTP server: ftp.infrapodtec.com
+FTP & explicit FTPS port:  21
+     ```
 
 
 
