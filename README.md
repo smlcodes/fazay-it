@@ -12,8 +12,21 @@ Download: https://themewagon.com/themes/free-bootstrap-4-html5-professional-busi
 
 ## Hosting
 
+#### Godaddy
 548965362
 Dacota1@3
+
+
+#### NameCheap Hosting
+https://www.namecheap.com/support/knowledgebase/article.aspx/897/29/how-to-create-an-addon-domain/
+
+1. Change Nameservers in GoDaddy  
+
+All Products > Domains > fazayit: click on DNS > Nameservers Tab > Change Nameservers  
+``
+`dns1.namecheaphosting.com
+dns2.namecheaphosting.com
+```
 
 
 
