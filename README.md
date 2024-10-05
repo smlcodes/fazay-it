@@ -38,7 +38,7 @@ All Products > Domains > fazayit: click on DNS > Nameservers Tab > Change Namese
           FTP server: ftp.infrapodtec.com
           FTP & explicit FTPS port:  21
      ```
-
+  Try here: https://smlcodes.deployhq.com/projects
 
 
 
